@@ -1,7 +1,13 @@
 import React from 'react';
-import 'antd/dist/antd.css';
 import './App.css';
-import { Datepicker, Buttons, ButtonGroup, Grid } from './components';
+import {
+	Datepicker,
+	Buttons,
+	ButtonGroup,
+	Grid,
+	MySelect,
+	MyTreeSelect,
+} from './components';
 
 function App() {
 	return (
@@ -10,6 +16,8 @@ function App() {
 			<Datepicker />
 			<Buttons />
 			<Grid />
+			<MySelect />
+			<MyTreeSelect />
 		</div>
 	);
 }
