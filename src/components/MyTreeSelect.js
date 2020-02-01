@@ -10,8 +10,8 @@ x.push({ title: 'Block 1', value: 'a1' });
 
 const allIds = x.map(({ value }) => value);
 
-console.log('xxx', x);
-console.log('allIds', allIds);
+// console.log('xxx', x);
+// console.log('allIds', allIds);
 
 export default function MyTreeSelect() {
 	const [selectedValues, setSelectedValues] = useState([]);
