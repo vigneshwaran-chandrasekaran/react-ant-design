@@ -5,10 +5,10 @@
   "homepage": "https://vigneshwaran-chandrasekaran.github.io/react-ant-design/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
-    "@testing-library/react": "^9.4.0",
+    "@testing-library/react": "^9.4.1",
     "@testing-library/user-event": "^7.2.1",
-    "antd": "^3.26.7",
-    "formik": "^2.1.3",
+    "antd": "^3.26.12",
+    "formik": "^2.1.4",
     "gh-pages": "^2.2.0",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
