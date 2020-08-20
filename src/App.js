@@ -1,13 +1,14 @@
 import React from 'react';
 import './App.css';
 import {
-	Datepicker,
-	Buttons,
-	ButtonGroup,
-	Grid,
-	MySelect,
-	MyTreeSelect,
-	CustomSelect,
+	// Datepicker,
+	// Buttons,
+	// ButtonGroup,
+	// Grid,
+	// MySelect,
+	// MyTreeSelect,
+	// CustomSelect,
+	AjaxTable,
 } from './components';
 
 function App() {
@@ -19,7 +20,8 @@ function App() {
 			<Grid />
 			<MySelect />
 			<MyTreeSelect /> */}
-			<CustomSelect />
+			{/* <CustomSelect /> */}
+			<AjaxTable />
 		</div>
 	);
 }
