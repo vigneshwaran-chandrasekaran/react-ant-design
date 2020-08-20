@@ -8,7 +8,8 @@ import {
 	// MySelect,
 	// MyTreeSelect,
 	// CustomSelect,
-	AjaxTable,
+	// AjaxTable,
+	AjaxTableNew,
 } from './components';
 
 function App() {
@@ -21,7 +22,8 @@ function App() {
 			<MySelect />
 			<MyTreeSelect /> */}
 			{/* <CustomSelect /> */}
-			<AjaxTable />
+			{/* <AjaxTable /> */}
+			<AjaxTableNew />
 		</div>
 	);
 }

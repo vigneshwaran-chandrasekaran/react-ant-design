@@ -1,4 +1,5 @@
 export { default as AjaxTable } from './AjaxTable';
+export { default as AjaxTableNew } from './AjaxTableNew';
 export { default as ButtonGroup } from './ButtonGroup';
 export { default as Buttons } from './Buttons';
 export { default as CustomSelect } from './CustomSelect';
