@@ -24,7 +24,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy": "npm run build",
+    "old-predeploy-old": "npm run build",
+    "predeploy": "craco build --verbose",
     "deploy": "gh-pages -d build"
   },
   "eslintConfig": {

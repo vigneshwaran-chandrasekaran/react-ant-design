@@ -6,6 +6,5 @@ module.exports = {
 	semi: true,
 	singleQuote: true,
 	'editor.formatOnSave': true,
-	// printWidth: 80,
 	proseWrap: 'always',
 };
